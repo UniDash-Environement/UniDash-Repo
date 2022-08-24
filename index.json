@@ -1,0 +1,32 @@
+{
+    "Docker":
+    [
+        {
+            "package_name": "testDocker1",
+            "description": "desc-testDocker1",
+            "download_link": "",
+            "image1": ""
+        },
+        {
+            "package_name": "testDocker2",
+            "description": "desc-testDocker2",
+            "download_link": "",
+            "image1": ""
+        }
+    ],
+    "LXC":
+    [
+        {
+            "package_name": "",
+            "description": "",
+            "download_link": "",
+            "image1": ""
+        },
+        {
+            "package_name": "",
+            "description": "",
+            "download_link": "",
+            "image1": ""
+        }
+    ]
+}
