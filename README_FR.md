@@ -10,20 +10,20 @@
 
 > ## [![Powerm1nt_Icon](https://avatars.githubusercontent.com/u/76876089?s=48&v=4)](https://github.com/Powerm1nt) [Powerm1nt](https://github.com/Powerm1nt)
 
-[README_FR 🇫🇷](README_FR.md)
+[README_EN 🇺🇸](README.md)
 
-## Full deployment in the blink of an eye
+## Déploiement complet en un claquement de doigt
 
 ## Description:
-> UMS Repo is a LXC VM(ansible) and Docker template repository 
-> for UMS-CD servers
+> UMS Repo est un repository de template LXC VM(ansible) et Docker 
+> pour les serveurs UMS-CD
 
 ## Aventages:
 
 ### Simple:
-> It is a semi-graphical and semi-automatic repo, as it will download
-> and move your templates to the right folders automatically
+> C'est un repo semi-graphique et semi-automatique, car il téléchargera
+> et déplacera automatiquement vos templates dans les bons dossiers
 
-### Clean and easy to edit:
-> I'm a neat freak myself on template cleanliness so you'll see
-> perfectly indented code and comment on the docker in particular.
+### Propre et facile à modifier:
+> Je suis moi-même maniaque sur la propreté des templates donc vous verrez
+> un code parfaitement indenté et commenter sur la docker notamment.
