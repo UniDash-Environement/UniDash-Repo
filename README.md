@@ -13,15 +13,12 @@
 ## Full deployment in the blink of an eye
 
 ## Description:
-> UMS Repo is a LXC VM(ansible) and Docker template repository 
-> for UMS-CD servers
+> UMS Repo is an LXC VM(ansible) and Docker template repository for UMS-CD servers.
 
 ## Aventages:
 
 ### Simple:
-> It is a semi-graphical and semi-automatic repo, as it will download
-> and move your templates to the right folders automatically
+> This is a semi-graphical and semi-automatic repo, as it will automatically download and move your templates to the right folders.
 
 ### Clean and easy to edit:
-> I'm a neat freak myself on template cleanliness so you'll see
-> perfectly indented code and comment on the docker in particular.
+> I'm a stickler for template cleanliness myself so you'll see perfectly indented and commented code on the docker-compose.yml in particular.
